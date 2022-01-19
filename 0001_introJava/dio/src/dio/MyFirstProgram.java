@@ -6,5 +6,16 @@ public class MyFirstProgram {
         Order order = new Order("code 1234");
         System.out.println(order.toString());
         System.out.println("Teste");
+
+        //comentário em linha
+
+        /*teste
+        * teste
+        * teste
+        * teste
+        * comentário em bloco */
+
+        System.out.println("Teste");
+
     }
 }
